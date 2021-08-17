@@ -26,6 +26,7 @@ html {
 
 body {
     padding: 32px;
+    background-color: var(--very-light-gray);
 }
 
 header {
