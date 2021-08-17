@@ -29,7 +29,7 @@ body {
 }
 
 header {
-    padding: 50px 0 70px 0;
+    padding: 50px 0;
     text-align: center;
     margin: 0 auto;
     max-width: 500px;
@@ -93,7 +93,7 @@ article p {
 
 @media only screen and (min-width: 1440px) {
     body {
-        padding: 32px;
+        padding: 30px;
         min-height: 100vh;
         display: flex;
         flex-direction: column;
