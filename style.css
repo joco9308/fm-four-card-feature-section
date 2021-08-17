@@ -63,6 +63,7 @@ article {
     border-radius: 8px;
     border-top: 5px solid;
     box-shadow:0 10px 40px -3px hsl(234deg 12% 34% / 15%), 0 15px 30px -16px hsl(212deg 86% 64% / 47%);
+    background-color: #fff;
 }
 
 article:nth-child(1) { grid-area: supervisor; border-color: var(--cyan); }
