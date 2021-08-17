@@ -94,7 +94,7 @@ article p {
 
 @media only screen and (min-width: 1440px) {
     body {
-        padding: 30px;
+        padding: 0;
         min-height: 100vh;
         display: flex;
         flex-direction: column;
