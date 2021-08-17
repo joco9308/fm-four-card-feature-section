@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/mobile-first-site-using-grid-and-flexbox-4n8jUaVoA)
-- Live Site URL: [Live site URL](https://github.com/joco9308/fm-social-proof-section)
+- Live Site URL: [Live site URL](https://joco9308.github.io/fm-four-card-feature-section/)
 
 ## My process
 
